@@ -1,4 +1,4 @@
-# Port - Swigger - Labs
+# PortSwigger - Labs
 
 PortSwigger Web Security Academy — lab write-ups, organized by vulnerability category.
 

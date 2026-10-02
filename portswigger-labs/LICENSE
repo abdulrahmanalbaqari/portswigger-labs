@@ -1,0 +1,15 @@
+Copyright (c) 2026 [اسمك أو GitHub username بتاعك]
+
+These are my own personal write-ups, explanations, and solution notes
+for labs from the PortSwigger Web Security Academy
+(https://portswigger.net/web-security). The analysis, explanations,
+and documentation in this repository are my original work.
+
+The underlying lab challenges, applications, and scenarios referenced
+here belong to PortSwigger and are not included or redistributed in
+this repository — only my own notes about how I approached and solved
+them.
+
+You are free to read, learn from, and reference this content. If you
+reuse substantial parts of the write-ups, a link back to this
+repository is appreciated.

@@ -24,3 +24,4 @@ PortSwigger Web Security Academy — lab write-ups, organized by vulnerability c
 | 16 | [Essential - skills - Labs](portswigger-labs/16-essential-skills-labs/README.md) | 3 |
 | 17 | [Race - conditions - Labs](portswigger-labs/17-race-conditions-labs/README.md) | 7 |
 | 18 | [Web - LLM - attacks - Labs](portswigger-labs/18-web-llm-attacks-labs/README.md) | 9 |
+| 19 | [GraphQL - API - Vulnerabilities - Labs](portswigger-labs/19-graphql-api-vulnerabilities-labs/README.md) | 6 |
